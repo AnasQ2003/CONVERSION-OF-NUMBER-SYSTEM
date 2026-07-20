@@ -1,12 +1,10 @@
-# 🔢 Number Conversion System with Lexical Tokenizer
-
 <div align="center">
+
+# 🔢 Number Conversion System with Lexical Tokenizer
 
 ![Python](https://img.shields.io/badge/Python-3.x-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Tkinter](https://img.shields.io/badge/Tkinter-GUI-blue?style=for-the-badge)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-Linux-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![Bahria University](https://img.shields.io/badge/Bahria_University-OS_Lab-003087?style=for-the-badge)
-![Semester](https://img.shields.io/badge/5th_Semester-OS_Lab_Project-success?style=for-the-badge)
 
 A dynamic, desktop-based **Number Conversion & Tokenizer System** developed using **Python** and **Tkinter GUI** for Linux/Ubuntu environments. Built as a laboratory project to demonstrate OS system utilities and basic interpreter architecture, this system supports conversion across four primary base systems (Binary, Octal, Decimal, Hexadecimal) and features a lexical tokenizer that breaks inputs into individual digit/character tokens and converts them to words.
 
@@ -112,26 +110,12 @@ CONVERSION-OF-NUMBER-SYSTEM/
 
 ---
 
-## 📚 Course Context
-
-| Detail | Info |
-|---|---|
-| **University** | Bahria University, Karachi Campus |
-| **Department** | Department of Computer Science |
-| **Course** | Operating Systems Lab (CSL-320) |
-| **Semester** | 5th Semester |
-| **Class** | BSCS 5A |
-| **Teacher** | Ma'am Mehwish Saleem |
-| **Group Members** | Abdul Samad, Anas Ahmed Qureshi, M. Ahmed Usmani |
-
----
-
 ## 📄 License
 
 ```
 MIT License
 
-Copyright (c) Conversion of Number System---2026 AnasQ2003
+Copyright (c) Conversion of Number System --- 2026 AnasQ2003
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
